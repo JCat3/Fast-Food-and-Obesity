@@ -4,6 +4,7 @@ Project completed by Julia Catalano, Anne Good, Nicole Lepley
 
 
 Hypothesis: The states with a higher number of fast food restaurants will have a higher obesity rate 
+
 Null Hypothesis:  The number of fast food restaurants in a state has no impact on obesity rate in the state 
 
 
