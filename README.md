@@ -1,5 +1,4 @@
-# Project-1
-Project 1 - Fast Food and Obesity project 
+Fast Food and Obesity project 
 Project completed by Julia Catalano, Anne Good, Nicole Lepley
 
 
